@@ -1,4 +1,4 @@
-       ### MINIProject 2 
+## MINIProject 2 
        authors : Patrus Gurung an Juhi lee 
 
 # Random Forest Classification — Imbalanced Dataset
